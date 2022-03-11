@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeWageProblemUsingOops
 {
-   public class EmployeWageProblem
+    class EmployeWageProblem
     {
         const int Emp_Full_Time = 1;
         const int Emp_Part_Time = 2;
